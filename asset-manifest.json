@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/wellfine.v1/static/css/main.1a81f71d.css",
+    "main.js": "/wellfine.v1/static/js/main.9d895686.js",
+    "static/js/787.789f00e6.chunk.js": "/wellfine.v1/static/js/787.789f00e6.chunk.js",
+    "static/media/41.png": "/wellfine.v1/static/media/41.6cbc6ddfea79c8754324.png",
+    "static/media/14.png": "/wellfine.v1/static/media/14.34843b38a220e67ce2ce.png",
+    "static/media/20.png": "/wellfine.v1/static/media/20.7e40a09eac5ccc539845.png",
+    "static/media/24.png": "/wellfine.v1/static/media/24.27805782e3130cc1eb50.png",
+    "static/media/18.png": "/wellfine.v1/static/media/18.1b93bb57f4b203457d0b.png",
+    "static/media/16.png": "/wellfine.v1/static/media/16.4b8b9f59d6517cbb8a43.png",
+    "static/media/23.png": "/wellfine.v1/static/media/23.30efe77650be19d4eb73.png",
+    "static/media/17.png": "/wellfine.v1/static/media/17.df634e80eafd9513e4d5.png",
+    "static/media/10.png": "/wellfine.v1/static/media/10.692156488e85d584acc0.png",
+    "static/media/11.png": "/wellfine.v1/static/media/11.1631b96a361f9dbad377.png",
+    "static/media/30.png": "/wellfine.v1/static/media/30.aeea96e8484cfae0ad38.png",
+    "static/media/9.png": "/wellfine.v1/static/media/9.a3e3be453939ae10d87b.png",
+    "static/media/6.png": "/wellfine.v1/static/media/6.ddcfcd678720614d58c2.png",
+    "static/media/27.png": "/wellfine.v1/static/media/27.8accb1accffb1a46887d.png",
+    "static/media/25.png": "/wellfine.v1/static/media/25.971dcfd9210719f177d7.png",
+    "static/media/22.png": "/wellfine.v1/static/media/22.aceea277887a09691fd7.png",
+    "static/media/26.png": "/wellfine.v1/static/media/26.39e65e5af4038079c67f.png",
+    "static/media/21.png": "/wellfine.v1/static/media/21.3b95d3d44519112ffd46.png",
+    "static/media/12.png": "/wellfine.v1/static/media/12.2266f00f9de30abe9b06.png",
+    "index.html": "/wellfine.v1/index.html",
+    "main.1a81f71d.css.map": "/wellfine.v1/static/css/main.1a81f71d.css.map",
+    "main.9d895686.js.map": "/wellfine.v1/static/js/main.9d895686.js.map",
+    "787.789f00e6.chunk.js.map": "/wellfine.v1/static/js/787.789f00e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a81f71d.css",
+    "static/js/main.9d895686.js"
+  ]
+}
