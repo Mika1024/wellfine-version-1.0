@@ -1,4 +1,4 @@
-[WELLFINE V1](https://mika1024.github.io/wf-v1/)
+[WELLFINE V1](https://mika1024.github.io/wellfine-version-1.0/)
 
 > [!CAUTION]
 > gh-pages has problems with react-router, all the back buttons and going to a specific post do not work correctly</span>
